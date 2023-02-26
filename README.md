@@ -9,9 +9,9 @@
     <p>We will use FastAI to preprocess the images and create data loaders for the training and testing data. We will then train the classifier on the preprocessed data and evaluate its performance using various metrics such as accuracy and F1 score.</p>
     <h2>Team Members</h2>
     <ul>
-      <a href="github.com/Karan-TIET"><li>Karan Chhabra</li></a>
-      <a href="github.com/taanisha"><li>Taanisha Agarwal</li></a>
-      <a href="github.com/Divyam6969"><li>Divyam Malik</li></a>
+      <li>Karan Chhabra</li>
+      <li>Taanisha Agarwal</li>
+      <li>Divyam Malik</li>
       <li>Arshiya Sethi</li>
     </ul>
     <h2>Conclusion</h2>
