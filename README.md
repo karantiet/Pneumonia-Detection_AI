@@ -15,6 +15,9 @@ Note: You will need to have FastAI installed to run this project</p>
     <h2>Methodology</h2>
     <p>The pre-trained ResNet50 model from FastAI will be used as the base model for training the classifier. This model allows us to train deep neural networks with over 150 layers, which will help us achieve better accuracy in detecting pneumonia from X-Ray images.</p>
     <p>We will use FastAI to preprocess the images and create data loaders for the training and testing data. We will then train the classifier on the preprocessed data and evaluate its performance using various metrics such as accuracy and F1 score.</p>
+    <h2>### Contribution</h2>
+<p>Contributions and feedback are welcome. Please open an issue or a pull request if you have any suggestions or improvements.
+</p>
     <h2>Team Members</h2>
     <ul>
       <li>Karan Chhabra</li>
