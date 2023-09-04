@@ -27,4 +27,6 @@ Note: You will need to have FastAI installed to run this project</p>
     </ul>
     <h2>Conclusion</h2>
     <p>By building a Pneumonia Detection System using AI, we can help doctors and medical professionals make faster and more accurate diagnoses of pneumonia, which can lead to better patient outcomes.</p>
+    <h2>### License</h2>
+<p>This project is licensed under the MIT License. See the <a href="https://github.com/karantiet/Pneumonia-Detection_AI/blob/main/LICENSE">LICENSE</a> file for details.</p>
   </body>
